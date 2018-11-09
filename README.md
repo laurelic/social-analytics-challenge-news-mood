@@ -14,4 +14,4 @@ Visualization of each individual sentiment score saw a small concentration of ne
 
 This program was run the day after the 2018 US Midterm Elections, so it was a big news day. Considering the known partisan biases of Fox News and CNN, it is interesting to see that their compound sentiment scores occupied the upper and lower limits of the data: Fox News had the most positve score, and CNN had the most negative score. Among the headlines: Democrats took back the House of Representatives, Attorney General Jeff Sessions resigned, and Trump held one of his most combative press conferences to date. One wonders what impact these events had on the tweets coming from these sources.
 
-![compound](assets/100_tweets_sentiments.png)
+![compound](assets/overall_tweet_sentiments.png)
